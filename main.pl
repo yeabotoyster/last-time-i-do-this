@@ -1,8 +1,8 @@
 #!/usr/bin/perl
 #==============INFO==============#
-# SCRIPT: Dosano
+# SCRIPT: Booter
 #    JOB: Denial Of Service Attack[DosAttack]
-#CodedBy: Oseid Aldary
+#CodedBy: envixed
 
 #=== Use Modules ===#
 use IO::Socket;
